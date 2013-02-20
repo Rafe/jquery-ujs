@@ -1,5 +1,6 @@
 {
   "name": "jquery-ujs",
+  "version": "1.4.0",
   "main": "./src/rails.js",
   "dependencies": {
     "jquery": "~1.7.0"
